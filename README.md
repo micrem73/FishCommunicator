@@ -4,7 +4,9 @@
 
 FishCommunicator watches a live YouTube fish-cam, calculate a change detection mask of 100 frame areas, and sends that stream over OSC to [Wekinator](http://www.wekinator.org/) so a trained model can turn "what the fish are doing" into control data for sound and performance.
 
-🎥 Demo: https://youtu.be/pX47ZwIquLE
+🎥 Demo: https://youtu.be/pX47ZwIquLE([https://vuo.org/](https://youtu.be/pX47ZwIquLE))
+
+![Demo loop](images/video.gif)
 
 ---
 
